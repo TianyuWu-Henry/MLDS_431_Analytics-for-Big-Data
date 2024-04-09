@@ -1,8 +1,10 @@
-On github submit a linux shell script for each task 3-8.
+Here are the Linux shell scripts for Tasks 3 - 8.
 
-Add to the readme file the prompts that you tried.
+Task 3: Create a new folder named **hw1** in Hadoop
 
-Task 3: Create a new folder in Hadoop (not in the local filesystem)
+```
+hdfs dfs -mkdir hw1
+```
 
 Task 4: Move one file that you have just uploaded to Wolf to the new folder in Hadoop
 
