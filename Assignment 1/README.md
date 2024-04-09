@@ -57,5 +57,5 @@ hdfs dfs -getmerge hw1_2/ concatenation.txt
 ```
 hdfs dfs -mkdir hw1_3
 hadoop fs -put Syllabus.pdf hw1_3/
-hadoop fs -cp /user/lvf7916/hw1_3/Syllabus.pdf /user/mtl8754
+hadoop fs -cp /user/lvf7916/hw1_3/Syllabus.pdf /user/mtl8754/Syllabus.pdf
 ```
